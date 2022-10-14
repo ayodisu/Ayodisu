@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **disu.abdulwahab@gmail.com**
 
-- 📄 Know about my experiences [https://abdulwahab-disu.netlify.app/assets/pdf/DisuAbdulwahab-CV.pdf](https://abdulwahab-disu.netlify.app/assets/pdf/DisuAbdulwahab-CV.pdf)
+- 📄 Know about my experiences [https://abdulwahab-disu.netlify.app/assets/pdf/Abdulwahab-Babatunde-Disu-CV.pdf]
 
 - ⚡ Fun fact **I'm a very fast learner.**
 
