@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 All of my projects are available at [https://t.co/2PGFQg7arZ](https://t.co/2PGFQg7arZ)
+- 👨‍💻 View my portfolio here [https://t.co/2PGFQg7arZ](https://t.co/2PGFQg7arZ)
 
 - 📫 How to reach me **disu.abdulwahab@gmail.com**
 
