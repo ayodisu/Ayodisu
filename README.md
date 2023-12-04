@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulwahab</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayodisu" alt="ayodisu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_ayodisu" target="blank"><img src="https://img.shields.io/twitter/follow/_ayodisu?logo=twitter&style=for-the-badge" alt="_ayodisu" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Node.Js**
 
-- 👨‍💻 All of my projects are available at [https://t.co/2PGFQg7arZ](https://t.co/2PGFQg7arZ)
+- 👨‍💻 All of my projects are available at [https://t.co/2PGFQg7arZ](https://disuabdulwahab.netlify.app/)
 
 - 📫 How to reach me **disu.abdulwahab@gmail.com**
 
